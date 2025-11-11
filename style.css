@@ -438,3 +438,13 @@ body {
     }
 }
 
+/* Responsive Design For Small Screens */
+
+@media (max-width: 576px) {
+    .hero {  
+       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./img/space-2000945_1920.jpg');
+       background-size: 576px;
+    }
+        .
+}
+
