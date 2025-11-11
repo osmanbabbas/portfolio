@@ -16,7 +16,7 @@ body {
 /* Hero Section */
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./img/IMG-20250730-WA0014.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./img/space-2000945_1920.jpg');
     height: 100vh;
     color: white;
     display: flex;
@@ -437,3 +437,4 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
