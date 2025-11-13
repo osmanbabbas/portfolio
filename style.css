@@ -50,7 +50,7 @@ body {
 
 .social-icon {
     color: white;
-    margin: 0 10px;
+    margin: 0 5px;
     font-size: 2rem;
     transition: transform 0.3s ease, color 0.3 ease;
 }
@@ -481,6 +481,7 @@ body {
     width: 90%;
   }
 }
+
 
 
 
