@@ -438,13 +438,49 @@ body {
     }
 }
 
-/* Responsive Design For Small Screens */
+/* Responsive Design For phones Screens */
 
-@media (max-width: 576px) {
-    .hero {  
-       background-size: 100%;
-    }
-        .
+@media (max-width: 600px) {
+  .hero {
+    padding: 60px 15px;
+  }
+
+  .hero-title {
+    font-size: 1.8rem;
+  }
+
+  .navbar ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .about-photo {
+    width: 100%;
+    max-width: 250px;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-info {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-card {
+    width: 90%;
+  }
 }
+
 
 
