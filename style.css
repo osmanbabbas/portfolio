@@ -450,7 +450,7 @@ body {
   }
 
   .navbar ul {
-    flex-direction: column;
+    display: flex;
     align-items: center;
   }
 
@@ -481,6 +481,7 @@ body {
     width: 90%;
   }
 }
+
 
 
 
